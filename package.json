@@ -1,0 +1,17 @@
+{
+	"name": "replay-data-changer",
+	"author": "munehime",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"node-osr": "^1.2.1"
+	},
+	"scripts": {
+		"start": "yarn node index.js",
+		"start_npm": "yarn node index.js"
+	},
+	"engines": {
+		"node": ">=12"
+	}
+}
